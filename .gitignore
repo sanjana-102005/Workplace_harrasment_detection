@@ -1,0 +1,9 @@
+ml_env/
+harrasment_model/
+prediction_log.csv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.ipynb_checkpoints/
